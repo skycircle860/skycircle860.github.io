@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Kyusik Jeong
+title:            Kyusik Jeong<br>Developer.
 tagline:          'A Jekyll theme'
-description:      '숙련된 개발자를 꿈꾸며...'
-url:              http://skycircle860.github.io/
+description:      '시작'
+url:              https://skycircle860.github.io/
 baseurl:          /
 
 author:
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           http://skycircle860.github.io/
+  repo:           https://skycircle860.github.io/
