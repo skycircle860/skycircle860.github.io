@@ -18,10 +18,10 @@ title: Stock prediction
 </br>
 
 **Homepage main**
-<img src= "{{ site.baseurl }}images/stockinfo/stockinfo_image1.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image1.png" sizes="400x400">
 
 **Some images**
-<img src= "{{ site.baseurl }}images/stockinfo/stockinfo_image5.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/stockinfo/stockinfo_image4.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/stockinfo/stockinfo_image3.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image5.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image4.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image3.png" sizes="400x400">
 <img src= "{{ site.baseurl }}images/stockinfo/stockinfo_image6.png" sizes="400x400">

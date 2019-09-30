@@ -17,14 +17,14 @@ title: Global goods
 </br>
 
 **Homepage main**
-<img src= "{{ site.baseurl }}images/globalgoods/13project_1.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_1.png" sizes="400x400">
 
 **Admin pages**
-<img src= "{{ site.baseurl }}images/globalgoods/13project_3.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/globalgoods/13project_4.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/globalgoods/13project_5.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/globalgoods/13project_6.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/globalgoods/13project_7.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_3.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_4.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_5.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_6.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_7.png" sizes="400x400">
 
 **Some images**
-<img src= "{{ site.baseurl }}images/globalgoods/13project_2.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/globalgoods/13project_2.png" sizes="400x400">

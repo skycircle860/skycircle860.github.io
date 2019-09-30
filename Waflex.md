@@ -15,9 +15,9 @@ title: Waflex
 </br>
 
 **Homepage main**
-<img src= "{{ site.baseurl }}images/waflex/waflex_image1.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/waflex/waflex_image1.png" sizes="400x400">
 
 **Admin pages**
-<img src= "{{ site.baseurl }}images/waflex/waflex_image2.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/waflex/waflex_image3.png" sizes="400x400">
-<img src= "{{ site.baseurl }}images/waflex/waflex_image4.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/waflex/waflex_image2.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/waflex/waflex_image3.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/waflex/waflex_image4.png" sizes="400x400">
