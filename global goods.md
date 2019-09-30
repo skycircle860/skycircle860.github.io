@@ -9,7 +9,7 @@ title: Global goods
 <ul>
 	<li>관리자 파트 개발</li>
     <li>Java/Jsp/Javascript/Jquery/Spring Framework/Oracle(11g)</li>
-    <li>2주 / 5인 개발</li>
+    <li>2013.04~2013.05(2주) / 5인 개발</li>
     
 </ul>
 

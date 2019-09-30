@@ -9,7 +9,7 @@ title: Waflex
 <ul>
 	<li>유저 개인 페이지 개발</li>
     <li>Java / Jsp / Javascript /Jquery / SpringFramework/Oracle / R </li>
-    <li>4주 / 7인개발</li>
+    <li>2019.03~2019.04(4주) / 7인개발</li>
     
 </ul>
 
@@ -20,5 +20,9 @@ title: Waflex
 
 **Admin pages**
 <img src= "{{ site.baseurl }}/images/waflex/waflex_image2.png" sizes="400x400"><br>
-<img src= "{{ site.baseurl }}/images/waflex/waflex_image3.png" sizes="400x400"><br>
-<img src= "{{ site.baseurl }}/images/waflex/waflex_image4.png" sizes="400x400"><br>
+<img src= "{{ site.baseurl }}/images/waflex/waflex_image3.PNG" sizes="400x400"><br>
+<img src= "{{ site.baseurl }}/images/waflex/waflex_image4.PNG" sizes="400x400"><br>
+
+**Vidio**
+link
+<iframe width="400" height="400" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>

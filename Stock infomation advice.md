@@ -11,7 +11,7 @@ title: Stock prediction
 <ul>
 	<li>네이버 금융사이트에서 재무제표 데이터를 크롤링,분석하여 PEG 수치를 구하고, 사용자가 검색한 주식의 PEG 수치 제공 및 투자 할 만한 주식 종목들을 추천</li>
     <li>Python/ Flask /Javascript /jquery/Mysql/Linux /Hadoop/ Flume/ R </li>
-    <li>4주 / 5인개발</li>
+    <li>2019.05~2019.06(4주) / 5인개발</li>
     
 </ul>
 
@@ -23,4 +23,8 @@ title: Stock prediction
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image5.png" sizes="400x400"><br>
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image4.png" sizes="400x400"><br>
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image3.png" sizes="400x400"><br>
-<img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image6.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image6.png" sizes="400x400"><br>
+
+**Vidio**
+link
+<iframe width="400" height="400" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
