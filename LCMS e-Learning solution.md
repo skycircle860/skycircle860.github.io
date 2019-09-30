@@ -13,15 +13,14 @@ title: LCMS e-Learning solution
     
 </ul>
 
-</br>
 
 **Homepage main**
 <img src= "{{ site.baseurl }}/images/lcms/lcms_image1.png" sizes="400x400">
-
+<br>
 **Admin pages**
-<img src= "{{ site.baseurl }}/images/lcms/lcms_image3.png" sizes="400x400">
-<img src= "{{ site.baseurl }}/images/lcms/lcms_image4.png" sizes="400x400">
-<img src= "{{ site.baseurl }}/images/lcms/lcms_image5.png" sizes="400x400">
+<img src= "{{ site.baseurl }}/images/lcms/lcms_image3.png" sizes="400x400"><br>
+<img src= "{{ site.baseurl }}/images/lcms/lcms_image4.png" sizes="400x400"><br>
+<img src= "{{ site.baseurl }}/images/lcms/lcms_image5.png" sizes="400x400"><br>
 
 **Some images**
 <img src= "{{ site.baseurl }}/images/lcms/lcms_image2.png" sizes="400x400">
