@@ -25,6 +25,6 @@ title: Stock prediction
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image3.png" sizes="400x400"><br>
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image6.png" sizes="400x400"><br>
 
-**Vidio**
+**개인파트 설명 및 전체 시연영상**
 link
-<iframe width="400" height="400" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="700" height="400" src="https://youtu.be/ll0eZePKUtc" frameborder="0" gesture="media" allowfullscreen=""></iframe>

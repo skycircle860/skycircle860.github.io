@@ -18,11 +18,11 @@ title: Waflex
 **Homepage main**
 <img src= "{{ site.baseurl }}/images/waflex/waflex_image1.png" sizes="400x400"><br>
 
-**Admin pages**
+**User info pages**
 <img src= "{{ site.baseurl }}/images/waflex/waflex_image2.png" sizes="400x400"><br>
 <img src= "{{ site.baseurl }}/images/waflex/waflex_image3.PNG" sizes="400x400"><br>
 <img src= "{{ site.baseurl }}/images/waflex/waflex_image4.PNG" sizes="400x400"><br>
 
-**Vidio**
+**개인파트 시연영상**
 link
-<iframe width="400" height="400" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="700" height="400" src="https://youtu.be/0B51UTsQHYM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
