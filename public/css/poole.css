@@ -41,6 +41,17 @@
           box-sizing: border-box;
 }
 
+/* custom css */
+
+.f12 {
+	font-size: 12pt
+}
+
+.f11 {
+	font-size: 11pt
+}
+
+
 html,
 body {
   margin: 0;
