@@ -11,13 +11,13 @@ title: Stock prediction
 
 <ul class="f11">
 	<li>네이버 금융사이트에서 재무제표 데이터를 크롤링,분석하여 PEG 수치를 구하고, 사용자가 검색한 주식의 PEG 수치 제공 및 투자 할 만한 주식 종목들을 추천</li>
-    <li>Python/ Flask /Javascript /jquery/Mysql/Linux /Hadoop/ Flume/ R </li>
+    <li>Python / Flask / Javascript / jquery / Mysql/Linux / Hadoop/ Flume / R </li>
     <li>2019.05~2019.06(4주) / 5인개발</li>
     
 </ul><br>
-
+<p class="f12">
 sorce_link : <a href="https://github.com/skycircle860/kosta_stockprediction">https://github.com/skycircle860/kosta_stockprediction </a><br><br>
-개별기술요소문서ppt : <a href="https://github.com/skycircle860/kosta_stockprediction/tree/master/stock_prediction/ppt"> https://github.com/skycircle860/kosta_stockprediction/tree/master/stock_prediction/ppt </a><br>
+개별기술요소문서ppt : <a href="https://github.com/skycircle860/kosta_stockprediction/tree/master/stock_prediction/ppt"> https://github.com/skycircle860/kosta_stockprediction/tree/master/stock_prediction/ppt </a></p><br>
 
 **Homepage main**
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image1.png" sizes="400x400"><br>

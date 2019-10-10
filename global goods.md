@@ -9,11 +9,13 @@ title: Global goods
 
 <ul class="f11">
 	<li>관리자 파트 개발</li>
-    <li>Java/Jsp/Javascript/Jquery/Spring Framework/Oracle(11g)</li>
+    <li>Java / Jsp / Javascript / Jquery / Spring Framework / Oracle(11g)</li>
     <li>2013.04~2013.05(2주) / 5인 개발</li>
     
 </ul><br>
-sorce_link : <a href="https://github.com/skycircle860/kosta_globalgoods">https://github.com/skycircle860/kosta_globalgoods </a><br><br>
+
+<p class="f12">
+sorce_link : <a href="https://github.com/skycircle860/kosta_globalgoods">https://github.com/skycircle860/kosta_globalgoods </a></p><br><br>
 
 
 **Homepage main**

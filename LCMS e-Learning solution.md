@@ -9,7 +9,7 @@ title: LCMS e-Learning solution
 
 <ul class="f11">
 	<li>관리자 기능 개발/운영 및 유지보수</li>
-    <li>Java/Jsp/Javascript/Jquery/Ms-sql/Malgn_framework</li>
+    <li>Java / Jsp / Javascript / Jquery / Ms-sql / Malgn_framework</li>
     <li>2013.07~2014.04(10개월) / 7인 개발 및 운영</li>
     
 </ul><br>

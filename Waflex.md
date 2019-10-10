@@ -9,12 +9,12 @@ title: Waflex
 
 <ul class="f11">
 	<li>유저 개인 페이지 개발</li>
-    <li>Java / Jsp / Javascript /Jquery / SpringFramework/Oracle / R </li>
+    <li>Java / Jsp / Javascript /Jquery / SpringFramework / Oracle / R </li>
     <li>2019.03~2019.04(4주) / 7인개발</li>
-</ul>
-
+</ul><br>
+<p class="f12">
 sorce_link : <a href="https://github.com/skycircle860/kosta_waflex">https://github.com/skycircle860/kosta_waflex </a><br><br>
-개별기술요소문서ppt : <a href="https://github.com/skycircle860/kosta_waflex/tree/master/ppt"> https://github.com/skycircle860/kosta_waflex/tree/master/ppt </a>
+개별기술요소문서ppt : <a href="https://github.com/skycircle860/kosta_waflex/tree/master/ppt"> https://github.com/skycircle860/kosta_waflex/tree/master/ppt </a></p>
 
 **Homepage main**
 <img src= "{{ site.baseurl }}/images/waflex/waflex_image1.png" sizes="400x400"><br>
