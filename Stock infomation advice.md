@@ -14,10 +14,10 @@ title: Stock prediction
     <li>Python/ Flask /Javascript /jquery/Mysql/Linux /Hadoop/ Flume/ R </li>
     <li>2019.05~2019.06(4주) / 5인개발</li>
     
-</ul>
+</ul><br>
 
 sorce_link : <a href="https://github.com/skycircle860/kosta_stockprediction">https://github.com/skycircle860/kosta_stockprediction </a><br><br>
-개별기술요소문서ppt : <a href="https://github.com/skycircle860/kosta_stockprediction/ppt"> https://github.com/skycircle860/kosta_stockprediction/ppt </a><br>
+개별기술요소문서ppt : <a href="https://github.com/skycircle860/kosta_stockprediction/tree/master/stock_prediction/ppt"> https://github.com/skycircle860/kosta_stockprediction/tree/master/stock_prediction/ppt </a><br>
 
 **Homepage main**
 <img src= "{{ site.baseurl }}/images/stockinfo/stockinfo_image1.png" sizes="400x400"><br>
