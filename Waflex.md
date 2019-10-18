@@ -9,7 +9,7 @@ title: Waflex
 
 <ul class="f11">
 	<li>유저 개인 페이지 개발</li>
-    <li>Java / Jsp / Javascript /Jquery / SpringFramework / Oracle / R </li>
+    <li>Java / Jsp / Javascript / Jquery / SpringFramework / Mybatis / Oracle / R </li>
     <li>2019.03~2019.04(4주) / 7인개발</li>
 </ul><br>
 <p class="f12">
