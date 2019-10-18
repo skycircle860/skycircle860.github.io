@@ -26,4 +26,4 @@ sorce_link : <a href="https://github.com/skycircle860/kosta_waflex">https://gith
 
 **개인파트 시연영상**
 link
-<iframe width="700" height="400" src="https://youtu.be/0B51UTsQHYM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/0B51UTsQHYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

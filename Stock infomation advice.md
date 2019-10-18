@@ -30,4 +30,4 @@ sorce_link : <a href="https://github.com/skycircle860/kosta_stockprediction">htt
 
 **개인파트 설명 및 전체 시연영상**
 link
-<iframe width="700" height="400" src="https://youtu.be/ll0eZePKUtc" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/ll0eZePKUtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
