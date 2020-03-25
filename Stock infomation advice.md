@@ -11,7 +11,7 @@ title: Stock prediction
 
 <ul class="f11">
 	<li>네이버 금융사이트에서 재무제표 데이터를 크롤링,분석하여 PEG 수치를 구하고, 사용자가 검색한 주식의 PEG 수치 제공 및 투자 할 만한 주식 종목들을 추천</li>
-    <li>Python / Flask / Javascript / Jquery / Mysql / Linux / Hadoop / Flume / R </li>
+    <li>Python / Flask / Javascript / Jquery / Mysql / Linux / Hadoop  </li>
     <li>2019.05~2019.06(4주) / 5인개발</li>
     
 </ul><br>
