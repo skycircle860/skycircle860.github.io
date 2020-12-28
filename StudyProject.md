@@ -20,6 +20,26 @@ sorce_link : <a href="https://github.com/skycircle860/springboot-webservice">htt
 
 **Homepage main**
 <img src= "{{ site.baseurl }}/images/studyproject/springboot_project_main.png" sizes="400x400"><br>
+
+<!--                                                단락구분                                    -->
+<h4>
+	Firebase 와 React 기반 증권정보제공 웹사이트
+</h4>
+<ul class="f11">
+	<li>Firebase 강의 끝내고 진행한 토이프로젝트</li>
+    <li>윈도우 환경에서 vscode,wsl 를 사용하여 개발</li>
+    <li>파이썬으로 크롤링 및 가공한 데이터를 기반으로 정보제공</li>
+    <li>추후 기능 추가해 볼 예정. 자바랑 스프링부트를 더 다뤄봐야 할 것 같아서 일단은 이정도만...</li>
+   
+</ul><br>
+**Site Link**
+<br/>
+<!-- <a href="https://skycircle860.github.io/nwitter/">https://skycircle860.github.io/nwitter/</a> -->
+<p class="f12">
+sorce_link : <a href="https://github.com/skycircle860/smartinvestor">https://github.com/skycircle860/smartinvestor </a><br><br></p>
+**Homepage main**
+<img src= "{{ site.baseurl }}/images/studyproject/Firebase_react_SmartInvestor_website1.png" sizes="400x400"><br>
+<img src= "{{ site.baseurl }}/images/studyproject/Firebase_react_SmartInvestor_website2.png" sizes="400x400"><br>
 <h4>
 	Firebase 와 React를 사용한 트위터 클론 사이트
 </h4>
@@ -35,7 +55,8 @@ sorce_link : <a href="https://github.com/skycircle860/springboot-webservice">htt
 <p class="f12">
 sorce_link : <a href="https://github.com/skycircle860/nwitter">https://github.com/skycircle860/nwitter </a><br><br></p>
 **Homepage main**
-<img src= "{{ site.baseurl }}/images/studyproject/Firebase_react_twitter_clone_website.png" sizes="400x400"><br>
+<img src= "{{ site.baseurl }}/images/studyproject/Firebase_react_twitter_clone_website2.png" sizes="400x400"><br>
+
 
 <h4>
 	React 를 사용한 영화정보 리뷰 제공 사이트
